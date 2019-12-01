@@ -8,7 +8,7 @@ public class BasePage {
 
 	private BasePage(WebDriver driver) {
 		this.driver = driver;
-
+//
 	}
 
 }
